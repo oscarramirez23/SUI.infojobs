@@ -1,6 +1,10 @@
 # Buttons
 Usa los botones para cualquier acción, ya sea principal o secundaria,  que requiera conducir al usuario a un determinado objetivo.
 
+[Styles](https://github.com/abailon/SUI.infojobs/edit/master/components/buttons/README.md#styles)
+[Sizes](https://github.com/abailon/SUI.infojobs/edit/master/components/buttons/README.md#sizes)
+[Construction](https://github.com/abailon/SUI.infojobs/edit/master/components/buttons/README.md#styles#construction)
+
 ### Styles
 Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
 
