@@ -1,8 +1,9 @@
 # Buttons
-Uno de los componentes más importantes en InfoJobs es el botón, en nuestro caso los botones los usamos para realizar “Call to actions” y por tanto a la hora de usarlos hay que seguir las normas estipuladas en esta sección, para no abusar de ellos.
+Usa los botones para cualquier acción, ya sea principal o secundaria,  que requiera conducir al usuario a un determinado objetivo.
 
 #### Estilos
-Cuando hablamos de estilos nos referimos al estilo visual que esta adquiriendo el icono. En los botones usaremos el primario para todos los “Call to action” posibles, usando el secundario cuando ya hay un boton primario en la página que estamos diseñando.<br>Los botones grouped los usaremos para separar contenido referente al mismo tema de conversación. Por ejemplo, para hacer una paginación y separar cada número o para compartir ofertas y separar cada botón de las redes sociales.
+Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
 
-#### Tipología
-Los estilos vistos anteriormente pueden pertenecer a una tipología diferente. Puede contener sólo texto, iconos o ambos. Dependiendo de donde estamos insertando el botón, éste se puede ajustar al contenido o ajustarse a la grid usando una anchura del 100%.
+
+#### Tamaños
+Cada botón está diseñado en 3 tamaños diferentes. <br>Usa siempre que puedas el tamaño _default_, el resto de tamaños son para usos ocasionales donde el uso del tamaño _default_ rompe la función principal del contenido.
