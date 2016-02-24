@@ -1,7 +1,9 @@
 # Buttons
 Usa los botones para cualquier acción, ya sea principal o secundaria,  que requiera conducir al usuario a un determinado objetivo.
 
-[Styles](#styles) | [Sizes](#sizes) | [Construction](#construction)
+- [Styles](#styles)
+- [Sizes](#sizes)
+- [Construction](#construction)
 
 ### Styles
 Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
