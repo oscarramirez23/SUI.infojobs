@@ -13,7 +13,7 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 <img src="https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/all_btn_styles.png?raw=true" style="border: 1px solid #f2f2f2">
 > Todos los estilos que puede tener un botón.
 
-![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/btn_with_bg_color.png)
+![buttons](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/btn_with_bg_color.png)
 > En los casos que tengamos foto o un fondo oscuro, usaremos solo la versión primaria del botón.
 
 --
@@ -22,10 +22,10 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 Cada botón está diseñado en 3 tamaños diferentes.   
 Usa siempre que puedas el tamaño **default**, el resto de tamaños son para usos ocasionales donde el uso del tamaño **default** rompe la función principal del contenido.
 
-![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/primary_btn_sizes.png)
+![buttons](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/primary_btn_sizes.png)
 > Medidas de los botones primarios.
 
-![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/secondary_btn_sizes.png)
+![buttons](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/secondary_btn_sizes.png)
 > Medidas de los botones secundarios.
 
 --
@@ -33,10 +33,10 @@ Usa siempre que puedas el tamaño **default**, el resto de tamaños son para uso
 ## Construction
 Aquí tienes las medidas, distancias y colores que se usan para construir los botones de esta sección.
 
-![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/primary_secondary_construction.png)
+![buttons](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/primary_secondary_construction.png)
 > Construcción de los botones primarios y secundarios.
 
-![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/grouped_construction.png)
+![buttons](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/grouped_construction.png)
 > construcción de los botones agrupados.
 
 **Tabla de colores**
