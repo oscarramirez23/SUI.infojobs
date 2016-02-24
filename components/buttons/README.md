@@ -20,6 +20,7 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 |  | Hover/Active | ChiliDark `#1a6d9b` | DarkSilk `#2d3133` |
 |  | Disabled | DarkestShiro `#1a6d9b` | DarkestShiro `#1a6d9b` |
 
+
 ---
 
 ### Sizes
