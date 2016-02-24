@@ -8,4 +8,4 @@ Todos los componentes, funcionalidades y casuisticas pertenecen a la `v1.0`de **
 
 ##Components
 Los componentes que usamos en nuestro site, van desde la mínima expresión como puede ser un botón, o son una conjunción de varios componentes individuales que juntos, forman un componente concreto como en el caso de las *cards*.
-####[Butons](https://github.com/abailon/SUI.infojobs/tree/master/components/buttons)
+####[Buttons](https://github.com/abailon/SUI.infojobs/tree/master/components/buttons)
