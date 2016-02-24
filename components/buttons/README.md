@@ -6,4 +6,5 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 
 
 #### Tamaños
-Cada botón está diseñado en 3 tamaños diferentes. <br>Usa siempre que puedas el tamaño _default_, el resto de tamaños son para usos ocasionales donde el uso del tamaño _default_ rompe la función principal del contenido.
+Cada botón está diseñado en 3 tamaños diferentes.
+Usa siempre que puedas el tamaño **default**, el resto de tamaños son para usos ocasionales donde el uso del tamaño **default** rompe la función principal del contenido.
