@@ -6,6 +6,8 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 
 ![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/Estilos.png)
 
+ **Tabla de colores**
+ 
 |  | State | BG color | Text color |
 | :---: | :---: | ---: | ---: |
 | **Primary** | Rest | Dayblue `#2088c2` | Shiro `#ffffff` |
