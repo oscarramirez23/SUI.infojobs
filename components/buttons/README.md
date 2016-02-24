@@ -1,7 +1,7 @@
 # Buttons
 Usa los botones para cualquier acción, ya sea principal o secundaria,  que requiera conducir al usuario a un determinado objetivo.
 
-#### Estilos
+### Estilos
 ![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/Estilos.png)
 
 Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
@@ -16,6 +16,6 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 |  | Disabled | DarkestShiro `#1a6d9b` | DarkestShiro `#1a6d9b` |
 
 
-#### Tamaños
+### Tamaños
 Cada botón está diseñado en 3 tamaños diferentes.   
 Usa siempre que puedas el tamaño **default**, el resto de tamaños son para usos ocasionales donde el uso del tamaño **default** rompe la función principal del contenido.
