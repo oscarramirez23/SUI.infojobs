@@ -6,6 +6,15 @@ Usa los botones para cualquier acción, ya sea principal o secundaria,  que requ
 
 Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
 
+|  | State | BG color | Text color |
+| :---: | :---: | ---: | ---: |
+| **Primary** | Rest | Dayblue `#2088c2` | Shiro `#ffffff` |
+|  | Hover/Active | DayblueDark `#1a6d9b` | Shiro `#ffffff` |
+|  | Disabled | DarkestShiro `#1a6d9b` | DarkestShiro `#1a6d9b` |
+| **Secondary** | Rest | Chili `#2088c2` | MidScript `#666666` |
+|  | Hover/Active | ChiliDark `#1a6d9b` | DarkSilk `#2d3133` |
+|  | Disabled | DarkestShiro `#1a6d9b` | DarkestShiro `#1a6d9b` |
+
 
 #### Tamaños
 Cada botón está diseñado en 3 tamaños diferentes.   
