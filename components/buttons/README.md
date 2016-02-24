@@ -3,10 +3,10 @@ Usa los botones para cualquier acción, ya sea principal o secundaria,  que requ
 
 ---
 
-### Estilos
+### Styles
 Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
 
-![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/Estilos.png)
+![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/styles.png)
 
  **Tabla de colores**
  
@@ -21,6 +21,6 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 
 ---
 
-### Tamaños
+### Sizes
 Cada botón está diseñado en 3 tamaños diferentes.   
 Usa siempre que puedas el tamaño **default**, el resto de tamaños son para usos ocasionales donde el uso del tamaño **default** rompe la función principal del contenido.
