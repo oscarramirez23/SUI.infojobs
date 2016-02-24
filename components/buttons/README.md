@@ -10,7 +10,7 @@ Usa los botones para cualquier acción, ya sea principal o secundaria,  que requ
 ## Styles
 Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
 
-<img src="https://raw.githubusercontent.com/abailon/SUI.infojobs/master/components/buttons/buttons-assets/all_btn_styles.png" style="border: 1px solid #f2f2f2">
+<img src="https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/all_btn_styles.png?raw=true" style="border: 1px solid #f2f2f2">
 > Todos los estilos que puede tener un botón.
 
 ![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/btn_with_bg_color.png)
