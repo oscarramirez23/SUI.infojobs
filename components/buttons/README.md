@@ -18,7 +18,7 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 Cada botón está diseñado en 3 tamaños diferentes.   
 Usa siempre que puedas el tamaño **default**, el resto de tamaños son para usos ocasionales donde el uso del tamaño **default** rompe la función principal del contenido.
 
-![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/primary_btn_sizes.png style="border: solid black 1px;")
+![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/primary_btn_sizes.png)
 > Medidas de los botones primarios.
 
 ![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/secondary_btn_sizes.png)
@@ -26,6 +26,12 @@ Usa siempre que puedas el tamaño **default**, el resto de tamaños son para uso
 
 ### Construction
 Aquí tienes las medidas, distancias y colores que se usan para construir los botones de esta sección.
+
+![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/primary_secondary_construction.png)
+> Construcción de los botones primarios y secundarios.
+
+![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/grouped_construction.png)
+> construcción de los botones agrupados.
 
 **Tabla de colores**
  
