@@ -4,7 +4,11 @@ Usa los botones para cualquier acción, ya sea principal o secundaria,  que requ
 ### Estilos
 Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
 
+---
+
 ![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/Estilos.png)
+
+---
 
  **Tabla de colores**
  
