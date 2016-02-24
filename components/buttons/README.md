@@ -7,13 +7,20 @@ Usa los botones para cualquier acción, ya sea principal o secundaria,  que requ
 Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por norma general intentamos usar los denominados "primarios" para acciones principales de la página y relegamos el uso de los "secundarios" para funciones con menos importancia.
 
 ![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/all%20buttons%20styles.png)
-
-`Todos los estilos que puede tener un botón.`
+> Todos los estilos que puede tener un botón.`
 
 ![estilos](https://github.com/abailon/SUI.infojobs/blob/master/components/buttons/buttons-assets/buttons%20with%20bg%20color%20or%20photo.png)
+> En los casos que tengamos foto o un fondo oscuro, usaremos solo la versión primaria del botón.`
 
-`En los casos que tengamos foto o un fondo oscuro, usaremos solo la versión primaria del botón.`
 
+---
+
+### Sizes
+Cada botón está diseñado en 3 tamaños diferentes.   
+Usa siempre que puedas el tamaño **default**, el resto de tamaños son para usos ocasionales donde el uso del tamaño **default** rompe la función principal del contenido.
+
+### Construction
+Aquí tienes las medidas, distancias y colores que se usan para construir los botones de esta sección.
  **Tabla de colores**
  
 |  | State | BG color | Text color |
@@ -24,10 +31,3 @@ Aquí puedes ver los diferentes estilos de botones que usamos en el site. Por no
 | **Secondary** | Rest | Chili `#2088c2` | MidScript `#666666` |
 |  | Hover/Active | ChiliDark `#1a6d9b` | DarkSilk `#2d3133` |
 |  | Disabled | DarkestShiro `#1a6d9b` | DarkestShiro `#1a6d9b` |
-
-
----
-
-### Sizes
-Cada botón está diseñado en 3 tamaños diferentes.   
-Usa siempre que puedas el tamaño **default**, el resto de tamaños son para usos ocasionales donde el uso del tamaño **default** rompe la función principal del contenido.
