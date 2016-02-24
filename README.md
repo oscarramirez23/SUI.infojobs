@@ -1,6 +1,8 @@
 # SUI.infojobs
 Bienvenido al repositorio donde encontrarás toda la información de cómo usar nuestra guía de estilos y podrás descargarte los archivos para empezar a generar contenido.
 
+Todos los componentes, funcionalidades y casuisticas pertenecen a la `v1.0`de **SUI.InfoJobs**
+
 ##Foundations
 > In progress
 
